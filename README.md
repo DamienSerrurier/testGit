@@ -1,2 +1,2 @@
 # testGit
-Modif
+Voici la présentation du projet
